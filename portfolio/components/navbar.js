@@ -1,9 +1,9 @@
 import Link from "next/link";
 const Navbar = () => {
 return(
-    <nav>
+    <nav className="navbar">
         <div>
-            <h1>portfolio</h1>
+            <h1>Portfolio</h1>
         </div>
        <Link href="/about">about</Link>
         <Link href="/projects">projects</Link>

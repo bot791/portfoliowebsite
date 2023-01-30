@@ -1,0 +1,23 @@
+.layout{
+    background-color: black;
+    height:610px;
+    width:100%;
+}
+.about h1{
+    color:aliceblue;
+}
+.about p{
+    color: azure;
+}
+.navbar{
+    background-color: thistle;
+}
+.footer{
+    background-color: teal;
+}
+.homepage h1{
+    color: aliceblue;
+}
+.projects h1{
+    color:azure;
+}
